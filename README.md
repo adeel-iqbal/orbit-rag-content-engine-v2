@@ -58,11 +58,6 @@ Two modes:
     <td><img src="Screenshots/Screenshot 2026-04-01 at 11.46.25 AM.png" width="380" alt="System Status — API & Collection Health"/></td>
   </tr>
   <tr>
-    <!-- ADD FACEBOOK SCREENSHOT 1 — replace src when available -->
-    <td><img src="Screenshots/facebook-caption-output.png" width="380" alt="Facebook Caption Output"/></td>
-    <!-- ADD FACEBOOK SCREENSHOT 2 — replace src when available -->
-    <td><img src="Screenshots/facebook-rendered-slides.png" width="380" alt="Facebook Rendered Slide Images"/></td>
-  </tr>
 </table>
 
 ---
