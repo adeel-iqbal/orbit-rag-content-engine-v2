@@ -1,0 +1,35 @@
+# ── AI / Agents ───────────────────────────────────────────────────────────────
+crewai[tools]
+anthropic
+openai
+
+# ── Vector DB & Embeddings ────────────────────────────────────────────────────
+qdrant-client
+sentence-transformers
+
+# ── PDF Processing ────────────────────────────────────────────────────────────
+pdfplumber
+unstructured
+pytesseract
+Pillow
+
+# ── Backend ───────────────────────────────────────────────────────────────────
+fastapi
+uvicorn
+pydantic
+httpx
+aiofiles
+python-multipart
+PyJWT
+pyyaml
+
+# ── Image Generation ──────────────────────────────────────────────────────────
+playwright
+
+# ── Utilities ─────────────────────────────────────────────────────────────────
+python-dotenv
+langchain-text-splitters
+tiktoken
+
+# After installing, run:
+#   playwright install chromium --with-deps
